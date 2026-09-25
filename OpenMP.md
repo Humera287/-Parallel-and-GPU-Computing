@@ -2,7 +2,7 @@
 
 ## 1. OpenMP Setup
 
-OpenMPI and OpenSSH were set up on the required Ubuntu systems for running the matrix multiplication program.
+OpenMP and OpenSSH were set up on the required Ubuntu systems for running the matrix multiplication program.
 
 The configuration allowed the systems to communicate and run the MPI program across multiple processes.
 
