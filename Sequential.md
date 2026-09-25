@@ -18,15 +18,9 @@ The Linux environment was checked and was ready for the experiment.
 
 The setup was completed successfully and was ready to run the program.
 
-<img width="934" height="1009" alt="image" src="https://github.com/user-attachments/assets/886f524d-cb87-4606-ae68-031901111ff0" />
-
-<img width="930" height="914" alt="image" src="https://github.com/user-attachments/assets/ecd1a1b0-fb10-4620-9b9a-0b6d93e73c4e" />
-
 ### GCC Verification
 
 The GCC compiler was set up successfully in the Ubuntu environment, and the installed version was checked to confirm that it was ready for compiling the C program.
-
-<img width="944" height="1011" alt="image" src="https://github.com/user-attachments/assets/20aee085-d9ab-43a4-b5bd-b7bbd4d41a56" />
 
 ## 3. Sequential Matrix Multiplication Program
 
