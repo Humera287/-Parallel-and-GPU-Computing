@@ -28,10 +28,6 @@ The computation is divided among different processes to perform the matrix multi
 
 ### 4. CUDA Matrix Multiplication
 
-A GPU-based matrix multiplication implementation using CUDA for parallel processing.
-
-It uses the GPU to perform multiple matrix calculations simultaneously.
-
 [View CUDA Experiment](./CUDA.md)
 
 ## Problem Definition
